@@ -30,7 +30,7 @@ You can either build the image by yourself:
 
     docker build -t opendevin-app -f .\containers\app\Dockerfile .     
 
-Or pull it from the registry:
+Or pull it from the registry (this was not working for me):
 
     docker pull ghcr.io/opendevin/opendevin:latest
 
