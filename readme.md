@@ -8,6 +8,12 @@ This repository should give a quick introduction into the agent technologie.
 
 AI Agents are software entities that autonomously perform tasks, process data, make decisions, and interact with their environment or other agents. These agents are based on advanced algorithms and machine learning, enabling them to adapt to changing conditions and constantly learn. They surpass simple large language models because they perform tasks purposefully and can set themselves subsequent tasks.
 
+Key-features:
+
+- Perform tasks
+- Make decisions
+- Communicate with other agents
+
 ### How they work?
 
 AI Agents are an advancement of existing algorithms, particularly Large Language Models (LLMs), utilize machine learning algorithms (ML) to derive patterns, rules, or models from collected data. Building on this, they can make decisions or execute tasks by using toolkits to interact with their environment. This ability to make decisions is the central aspect, as it enables them to utilize various tools such as specific programs, databases, etc.

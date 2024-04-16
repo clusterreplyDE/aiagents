@@ -50,9 +50,3 @@ WebUI lite
 
     cd ollama-webui-lite
     pnpm i && pnpm run dev
-
-
-
-
-
-
