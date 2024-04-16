@@ -3,3 +3,4 @@
 __pycache__
 .DS_Store
 run_devin.cmd
+run_swe.cmd

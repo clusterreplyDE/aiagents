@@ -57,3 +57,8 @@ Then start the image with this commands:
 
 If you're using docker on Windows, use `-v //var/run/docker.sock:/var/run/docker.sock` (double slash) to escape it
 
+### Final
+
+If everything works as expected you should this this message
+
+![swe-done](../media/swe-finish.png)
