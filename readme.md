@@ -90,3 +90,4 @@ For doing so you need either an API Key
 
 or in terms of saving costs and work autonomous you can also work with local language models as described here: [ollama](ollama.md) setup
 
+To be up-to-date you can check [Huggingface](https://huggingface.co/models?sort=trending) regularly
