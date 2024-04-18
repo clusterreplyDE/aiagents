@@ -85,6 +85,7 @@ For doing so you need either an API Key
 
 - **ChatGPT**: https://platform.openai.com/api-keys
 - **Claude3**: https://console.anthropic.com/settings/keys
+- **Mistral**: https://console.mistral.ai/api-keys/
 - **Groq**: https://console.groq.com/keys
 
 or in terms of saving costs and work autonomous you can also work with local language models as described here: [ollama](ollama.md) setup
